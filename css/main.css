@@ -555,7 +555,10 @@ a:hover.slides{
 	padding-left: 30px;
 	background: transparent url(../img/bg_break_symbols.png) no-repeat left -48px;
 }
-
+#schedule tr.break.stretching td h4 strong{
+	padding-left: 44px;
+	background: transparent url(../img/exercise-icon.png) no-repeat left;
+}
 
 #schedule td a{
 	text-decoration: none;
